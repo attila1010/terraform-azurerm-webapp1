@@ -1,5 +1,7 @@
 ##  Testing modules Jul 27th ##
 
+Testing Chap05 github modules referenced by T8 config
+
 ## Requirements
 
 No requirements.
